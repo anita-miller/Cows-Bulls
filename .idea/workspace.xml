@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8baf4b2a-f63c-468a-8989-b2930965226e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZHBlVvYjWpXKYhaX1tpcpnFGQo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Cows&amp;Bulls" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="cows-bulls [file:/Users/anaseri/Code/personal/Cows&amp;Bulls/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Cows&amp;Bulls-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3168972580910" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="723190539" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../zendesk/escape" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../zendesk/intro-to-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../zendesk/kafka-bus" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../zendesk/maxwell_cat" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8baf4b2a-f63c-468a-8989-b2930965226e" name="Default Changelist" comment="" />
+      <created>1584486290447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584486290447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="200" width="811" height="669" key="#Project_Structure" timestamp="1584486330722">
+      <screen x="0" y="23" width="1792" height="1023" />
+    </state>
+    <state x="496" y="200" width="811" height="669" key="#Project_Structure/0.23.1792.1023@0.23.1792.1023" timestamp="1584486330722" />
+    <state x="519" y="229" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584486417460">
+      <screen x="0" y="23" width="1792" height="1023" />
+    </state>
+    <state x="519" y="229" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1792.1023@0.23.1792.1023" timestamp="1584486417460" />
+  </component>
+</project>
