@@ -7,7 +7,7 @@ object Main {
     val computerPlayersHand = computerGenerateRandomNumbers(System.currentTimeMillis())
     val usersHand = readLine()
 
-    val app = new cowsAndBulls().play(usersHand, computerPlayersHand)
+    val app = new cowsAndBulls().playCowsAndBulls(usersHand, computerPlayersHand)
 
     println(s"You won after $usersHand, $computerPlayersHand")
   }
